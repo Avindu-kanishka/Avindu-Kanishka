@@ -7,7 +7,7 @@
 
 💻 Passionate about Data Science, Machine Learning, and Web Development
 
-📚 Currently studying BSc in Data Science
+📚 Currently studying BSc Honours in Data Science
 
 🌱 Learning Python, Java, PHP, SQL, and Data Analytics
 
