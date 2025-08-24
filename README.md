@@ -6,8 +6,11 @@
 🔹 About Me
 
 💻 Passionate about Data Science, Machine Learning, and Web Development
+
 📚 Currently studying BSc in Data Science
+
 🌱 Learning Python, Java, PHP, SQL, and Data Analytics
+
 🚀 Interested in Business Analysis & E-commerce Applications
 
 🔹 Skills & Tools
@@ -30,6 +33,6 @@ Git | GitHub | VS Code | XAMPP
 
 🔹 Connect With Me
 
-📧 Email: Avindu@665@gmail.com
+📧 Email: Avindu665@gmail.com
 
-💼 LinkedIn: Avindu Kanishka
+💼 LinkedIn: https://www.linkedin.com/in/avindu-kanishka-0891ab332/
