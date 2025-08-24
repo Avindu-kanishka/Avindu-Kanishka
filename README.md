@@ -1,17 +1,17 @@
-Hi there, I'm Avindu Kanishka! 👋
+👋 Hi, I'm Avindu Kanishka
+🎓 Data Science Undergraduate | 📊 Aspiring Data Scientist
+Sabaragamuwa University of SriLanka
 
-About Me
-
-🔭 I’m currently working on: Enhancing my skills in data science and web development.
-
-🌱 I’m currently learning: Data Science (degree program), Python, Java, JavaScript, HTML, CSS, Boostrap, React and MySQL.
-
-👯 I’m looking to collaborate on: Projects related to data analysis, machine learning, and modern web applications.
-
-🤔 I’m looking for help with: Expanding my expertise in advanced data science techniques and full-stack development.
-
-💬 Ask me about: Programming languages, data science concepts, or anything related to the areas I'm exploring.
-
-😄 Pronouns: he/him
-
-⚡ Fun fact: I enjoy exploring new technologies and pushing myself to learn and grow in the tech world.
+🔹 About Me
+💻 Passionate about Data Science, Machine Learning, and Web Development
+📚 Currently studying BSc in Data Science
+🌱 Learning Python, Java, PHP, SQL, and Data Analytics
+🚀 Interested in Business Analysis & E-commerce Applications
+🔹 Skills & Tools
+Programming: Python | Java | PHP | C | HTML | CSS | JavaScript
+Data Science: Pandas | NumPy | Matplotlib | Machine Learning
+Databases: MySQL | SQLite
+Tools: Git | GitHub | VS Code | XAMPP
+🔹 Connect With Me
+📧 Email: Avindu@665@gmail.com
+Linkedin: https://www.linkedin.com/in/avindu-kanishka-0891ab332/
