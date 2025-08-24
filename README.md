@@ -7,11 +7,13 @@ Sabaragamuwa University of SriLanka
 📚 Currently studying BSc in Data Science
 🌱 Learning Python, Java, PHP, SQL, and Data Analytics
 🚀 Interested in Business Analysis & E-commerce Applications
+
 🔹 Skills & Tools
 Programming: Python | Java | PHP | C | HTML | CSS | JavaScript
 Data Science: Pandas | NumPy | Matplotlib | Machine Learning
 Databases: MySQL | SQLite
 Tools: Git | GitHub | VS Code | XAMPP
+
 🔹 Connect With Me
 📧 Email: Avindu@665@gmail.com
-Linkedin: https://www.linkedin.com/in/avindu-kanishka-0891ab332/
+📫 Linkedin : https://www.linkedin.com/in/avindu-kanishka-0891ab332/
